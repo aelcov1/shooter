@@ -1,6 +1,6 @@
 from pygame import *
 from random import randint
-
+from randon import *
 font.init()
 font = font.Font(None, 36)
 
